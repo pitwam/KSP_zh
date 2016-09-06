@@ -3514,8 +3514,8 @@ bitmask: ]]></string>
 <string id="127271"><![CDATA[开始新的游戏]]></string>
 <string id="127300"><![CDATA[[MainMenu Error]: Flag Browser button is set, but GameDatabase has no instance!]]></string>
 <string id="127460"><![CDATA[newGameDialog]]></string>
-<string id="127487"><![CDATA[Save Name:]]></string>
-<string id="127508"><![CDATA[游戏模式;]]></string>
+<string id="127487"><![CDATA[存档名称：]]></string>
+<string id="127508"><![CDATA[游戏模式：]]></string>
 <string id="127529" noT="1"><![CDATA[Sandbox]]></string>
 <string id="127544" noT="1"><![CDATA[Science]]></string>
 <string id="127559" noT="1"><![CDATA[Career]]></string>
@@ -3546,7 +3546,7 @@ bitmask: ]]></string>
 <string id="129148"><![CDATA[OpenURL called for ]]></string>
 <string id="129187"><![CDATA[confirmQuitDialog]]></string>
 <string id="129222"><![CDATA[真的要退出吗?]]></string>
-<string id="129247"><![CDATA[Quit]]></string>
+<string id="129247"><![CDATA[退出]]></string>
 <string id="129256"><![CDATA[PlayAmbienceLoop]]></string>
 <string id="129289"><![CDATA[ x]]></string>
 <string id="129294"><![CDATA[ Beta]]></string>
@@ -8157,9 +8157,9 @@ Cost: \F ]]></string>
 <string id="348470"><![CDATA[Auto Expire In]]></string>
 <string id="348499"><![CDATA[Minimum Duration]]></string>
 <string id="348532"><![CDATA[Maximum Duration]]></string>
-<string id="348565"><![CDATA[消耗设置]]></string>
+<string id="348565"><![CDATA[开启策略花费]]></string>
 <string id="348586"><![CDATA[<b><color=]]></string>
-<string id="348607"><![CDATA[>Effects:</color></b>
+<string id="348607"><![CDATA[>效果：</color></b>
 
 ]]></string>
 <string id="348654"><![CDATA[管理设施不能支持多余]]></string>
@@ -11913,7 +11913,7 @@ Never]]></string>
 设施等级太低无法研究超过 ]]></string>
 <string id="698699"><![CDATA[
 
-必要技术妹有研究。</color>]]></string>
+必要技术没有研究。</color>]]></string>
 <string id="698802"><![CDATA[RESEARCHED]]></string>
 <string id="698823"><![CDATA[RESEARCHABLE]]></string>
 <string id="698848"><![CDATA[FADED]]></string>
